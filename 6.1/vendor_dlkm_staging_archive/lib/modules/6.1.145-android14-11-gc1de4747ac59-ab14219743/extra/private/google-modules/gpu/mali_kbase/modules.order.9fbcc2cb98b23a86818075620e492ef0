@@ -1,0 +1,3 @@
+extra/private/google-modules/gpu/mali_kbase/tests/kutf/mali_kutf.ko
+extra/private/google-modules/gpu/mali_kbase/tests/mali_kutf_clk_rate_trace/kernel/mali_kutf_clk_rate_trace_test_portal.ko
+extra/private/google-modules/gpu/mali_kbase/mali_kbase.ko

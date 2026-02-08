@@ -1,0 +1,8 @@
+6.1/* filter=lfs diff=lfs merge=lfs -text
+6.1/*.ko filter=lfs diff=lfs merge=lfs -text
+6.1/*.tar.gz filter=lfs diff=lfs merge=lfs -text
+6.1/*.gz filter=lfs diff=lfs merge=lfs -text
+6.1/*.img filter=lfs diff=lfs merge=lfs -text
+6.1/*.lz4 filter=lfs diff=lfs merge=lfs -text
+6.1/unstripped_modules/unstripped/* filter=lfs diff=lfs merge=lfs -text
+6.1/unstripped_modules/unstripped/*.ko filter=lfs diff=lfs merge=lfs -text

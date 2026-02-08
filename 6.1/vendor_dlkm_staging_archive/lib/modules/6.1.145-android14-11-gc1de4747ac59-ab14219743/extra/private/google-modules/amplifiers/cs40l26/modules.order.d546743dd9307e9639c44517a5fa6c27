@@ -1,0 +1,4 @@
+extra/private/google-modules/amplifiers/cs40l26/cl_dsp-core.ko
+extra/private/google-modules/amplifiers/cs40l26/cs40l26-core.ko
+extra/private/google-modules/amplifiers/cs40l26/cs40l26-i2c.ko
+extra/private/google-modules/amplifiers/cs40l26/snd-soc-cs40l26.ko
