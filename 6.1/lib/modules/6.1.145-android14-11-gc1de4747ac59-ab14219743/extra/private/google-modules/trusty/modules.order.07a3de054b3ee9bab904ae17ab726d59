@@ -1,0 +1,5 @@
+extra/private/google-modules/trusty/drivers/trusty/trusty-core.ko
+extra/private/google-modules/trusty/drivers/trusty/trusty-log.ko
+extra/private/google-modules/trusty/drivers/trusty/trusty-test.ko
+extra/private/google-modules/trusty/drivers/trusty/trusty-virtio.ko
+extra/private/google-modules/trusty/drivers/trusty/trusty-ipc.ko
